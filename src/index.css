@@ -1,0 +1,57 @@
+*{
+  margin:0;
+  padding:0;}
+
+  body{
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'poppins';
+  }
+
+
+.title{
+  font-size: 50px;
+  color: #000000;
+  font-family: "popins";
+  margin-top: 120px;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+
+.welcomeSection {
+  font-size: 28px;
+  font-family: "popins";
+  padding: 40px 0;
+  padding-left: 65px;
+  padding-right: 65px;
+  text-align: center;
+}
+.toStart{
+  font-size: 28px;
+  font-family: "popins";
+  color: #4e4e4e;
+  margin-bottom: 30px;
+  text-align: center;
+
+}
+
+.startButton{
+  display: block; 
+  margin: 0 auto; 
+  padding: 12px 30px;
+  font-size: 20px;
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+    
+}
+
+.startButton:hover {
+  background-color: #525252;;
+}
